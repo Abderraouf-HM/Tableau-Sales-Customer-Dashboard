@@ -3,7 +3,7 @@
 ##  Project Overview
 This interactive Tableau Dashboard provides deep insights into sales performance, customer distribution, and top-performing customers based on Current Year (CY) and Previous Year (PY) metrics.
 
-## 🎯 Key Visualizations & Features
+## Key Visualizations & Features
 - **KPI Cards:** Dynamic display of CY Sales, CY Profit, and Order Quantities.
 - **Customer Distribution Chart:** Visualizing customer behavior and purchase frequencies.
 - **Top 10 Customers Table:** Ranked using `INDEX()` calculations and dynamic `CY Sales` filters.
